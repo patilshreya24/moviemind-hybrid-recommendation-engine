@@ -18,13 +18,17 @@ MovieMind is a full-stack AI/ML movie recommendation platform that recommends mo
 - 📱 Responsive movie recommendation interface
 
 🖥️ Screenshots
+
 🏠 MovieMind Interface
+
  ![MovieMind Homepage](homepage.png)
  
 🎬 Hybrid Recommendations
+
  ![Movie Recommendations](recommendations.png)
  
 🎥 Movie Details
+
 ![Movie Details](movie-details.png)
 
 
