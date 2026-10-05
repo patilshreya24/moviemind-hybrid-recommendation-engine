@@ -1,0 +1,18 @@
+@"
+.venv/
+__pycache__/
+*.pyc
+
+.env
+*.env
+
+node_modules/
+dist/
+
+*.pkl
+
+ml/data/raw/
+ml/models/backup_*/
+
+.vscode/
+"@ | Set-Content .gitignore
